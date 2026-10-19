@@ -59,12 +59,15 @@ nest-asyncio2==1.7.4
 notebook_shim==0.2.4
 numpy==2.5.4
 packaging==26.3
+pandoc==2.4
 pandocfilters==1.5.1
 parso==0.8.7
 pexpect==4.9.0
 photutils==3.1.1
 pillow==13.0.0
 platformdirs==4.13.5
+plumbum==2.0.2
+ply==3.11
 prometheus_client==0.26.0
 prompt_toolkit==3.0.53
 psutil==7.2.2
